@@ -1,0 +1,27 @@
+{
+  "name": "acf-diensten",
+  "title": "Diensten",
+  "description": "",
+  "category": "bibliotheek",
+  "icon": "screenoptions",
+  "keywords": [
+    "block"
+  ],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "acf-diensten.php"
+  },
+  "example": {
+    "attributes": {
+      "mode": "preview",
+      "data": {
+        "preview_image_help": "/wp-content/themes/maxvandijk/img/local/leeg.png",
+        "is_preview": true
+      }
+    }
+  }
+}

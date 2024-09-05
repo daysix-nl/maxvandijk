@@ -1,0 +1,27 @@
+{
+  "name": "acf-cta-1",
+  "title": "Call to action 1",
+  "description": "",
+  "category": "bibliotheek",
+  "icon": "migrate",
+  "keywords": [
+    "block"
+  ],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "acf-cta-1.php"
+  },
+  "example": {
+    "attributes": {
+      "mode": "preview",
+      "data": {
+        "preview_image_help": "/wp-content/themes/maxvandijk/img/local/leeg.png",
+        "is_preview": true
+      }
+    }
+  }
+}

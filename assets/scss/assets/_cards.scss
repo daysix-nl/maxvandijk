@@ -1,0 +1,22 @@
+a .mlicon {
+    margin-left: 8px !important;
+    transition-duration: 0.3s !important;
+}
+
+a img {
+    scale: 1 !important;
+    transition-duration: 0.3s !important;
+    z-index: 1;
+}
+
+@media (min-width: 1200px) {
+    a:hover .mlicon {
+        margin-left: 12px !important;
+        transition-duration: 0.3s !important;
+    }
+
+    a:hover img {
+        scale: 1.05 !important;
+        transition-duration: 0.3s !important;
+    }
+}

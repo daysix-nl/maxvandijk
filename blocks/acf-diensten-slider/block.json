@@ -1,0 +1,27 @@
+{
+  "name": "acf-diensten-slider",
+  "title": "Diensten slider",
+  "description": "",
+  "category": "bibliotheek",
+  "icon": "slides",
+  "keywords": [
+    "block"
+  ],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "acf-diensten-slider.php"
+  },
+  "example": {
+    "attributes": {
+      "mode": "preview",
+      "data": {
+        "preview_image_help": "/wp-content/themes/maxvandijk/img/local/leeg.png",
+        "is_preview": true
+      }
+    }
+  }
+}

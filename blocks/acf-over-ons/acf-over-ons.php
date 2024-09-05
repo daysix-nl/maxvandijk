@@ -21,7 +21,7 @@ $link_target = isset($link['target']) ? esc_attr($link['target']) : '';
 ?>
  <!-- AFBEELDING -->
 <section class="<?php echo get_field('padding_top');?> <?php echo get_field('padding_bottom');?> element-fade-in">
-    <div class="w-full max-w-[390px] md:max-w-[680px] lg:max-w-[1840px] mx-auto lg:px-[25px] xl:px-[35px] grow-item">
+    <div class="w-full max-w-[360px] md:max-w-[680px] lg:max-w-[1840px] mx-auto lg:px-[25px] xl:px-[35px] grow-item">
         <div class="grid lg:grid-cols-2 rounded-[10px] overflow-hidden">
             <div class="w-full aspect-[1/1] overflow-hidden relative">
                 <div class="absolute bottom-0 left-0 right-0 h-[200px] md:h-[127px] lg:h-[279px] bg-gradient-to-b from-transparent to-black"></div>

@@ -15,16 +15,16 @@
                         <?php include get_template_directory() . '/componenten/logo.php'; ?>
                     </a>
                     <div class="hidden lg:flex items-center space-x-[20px]">
-                        <a href="#" class="hover">
+                        <a href="https://www.facebook.com/Max-van-dijk-groen-grond-infra-100418558489974" class="hover" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="7.748" height="14.733" viewBox="0 0 7.748 14.733">
                                 <path id="Path_1" data-name="Path 1" d="M6.071.617c.394,0,.791.021,1.183.039.256.011.513.047.753.073L7.989,3.1H7.8c-.26,0-.521,0-.781,0-.2,0-.391,0-.586.008-.629.021-1.091.257-1.123,1.042-.02.566-.034,1.814-.035,1.88.033,0,.654,0,1.279,0,.313,0,.618,0,.831,0h.508c-.127.911-.244,1.785-.371,2.665H5.276l-.05,6.655H2.466l.051-6.666H.26l.02-2.65H2.547v-.2c0-.534,0-1.068.018-1.6a6.615,6.615,0,0,1,.086-1.016A3.014,3.014,0,0,1,3.862,1.237,3.471,3.471,0,0,1,5.851.619Z" transform="translate(-0.26 -0.617)" fill="#fff"/>
                             </svg>
                         </a>
-                        <a href="#" class="hover">
+                        <!-- <a href="#" class="hover">
                             <svg xmlns="http://www.w3.org/2000/svg" width="13.042" height="13.038" viewBox="0 0 13.042 13.038">
                                 <path id="Union_2" data-name="Union 2" d="M107.938,14.5a21.2,21.2,0,0,1-3.624-.193,3.258,3.258,0,0,1-2.6-2.843,36.722,36.722,0,0,1,.123-7.321,3.321,3.321,0,0,1,2.842-2.534,24.678,24.678,0,0,1,3.268-.148c1.115,0,2.365.029,3.184.074a3.605,3.605,0,0,1,2.381.975,3.432,3.432,0,0,1,1.04,2.225,41.448,41.448,0,0,1-.142,7.012,3.335,3.335,0,0,1-2.879,2.608A32.283,32.283,0,0,1,107.938,14.5Zm.231-11.857c-1.376,0-2.616.038-3.159.1A2.24,2.24,0,0,0,102.927,4.7a44.445,44.445,0,0,0-.045,6.583,2.1,2.1,0,0,0,1.609,1.843,22.074,22.074,0,0,0,3.507.193c1.349,0,2.7-.041,3.216-.1a2.235,2.235,0,0,0,2.088-1.975,47.038,47.038,0,0,0,.081-6.4,2.2,2.2,0,0,0-1.953-2.079A29.186,29.186,0,0,0,108.169,2.64Zm-.083,8.685a3.312,3.312,0,0,1-3.316-3.346,3.375,3.375,0,0,1,3.363-3.342h.008a3.314,3.314,0,0,1,3.316,3.347A3.377,3.377,0,0,1,108.086,11.325Zm.043-5.51a2.188,2.188,0,0,0-2.18,2.142,2.142,2.142,0,0,0,2.125,2.183h.019A2.191,2.191,0,0,0,110.275,8a2.142,2.142,0,0,0-2.126-2.184Zm3.48-.523a.783.783,0,0,1,.007-1.566h.009a.768.768,0,0,1,.549.229.776.776,0,0,1,.226.557A.791.791,0,0,1,111.61,5.292Z" transform="translate(-101.595 -1.458)" fill="#fff"/>
                             </svg>
-                        </a>
+                        </a> -->
                     </div>
                 </div>
                 <hr class="broder-[2px] border-[#FFDD00] mt-[20px]">
@@ -33,7 +33,7 @@
                         <h6 class="text-white font-jost font-semibold text-18">Contact</h6>
                         <hr class="border-[#FFE500] border-[1px] w-[22px] rounded-[8px] mt-[10px] mb-[30px]">
                         <div class="grid gap-[16px]">
-                            <a href="" class="flex justify-between hover">
+                            <a href="https://www.google.nl/maps/place/Cliffordweg+10,+3646+AG+Waverveen/@52.222249,4.9004676,17z/data=!3m1!4b1!4m6!3m5!1s0x47c674f959b67d5b:0x45ae7d9826c3d147!8m2!3d52.222249!4d4.9030425!16s%2Fg%2F11bw4pf8tq?hl=nl&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D" class="flex justify-between hover" target="_blank">
                                 <div class="h-[30px] w-[30px] flex justify-center items-start">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="22" viewBox="0 0 16 22" class="mt-[10px]">
                                         <defs>
@@ -52,7 +52,7 @@
                                     <p class="text-15 leading-28 text-white font-rubik font-normal">Cliffordweg 10<br>3646 AG, Waverveen</p>
                                 </div>
                             </a>
-                            <a href="" class="flex justify-between hover">
+                            <a href="tel:+31 (0)6 - 36 17 64 28" class="flex justify-between hover">
                                 <div class="h-[30px] w-[30px] flex justify-center items-center">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="22.082" height="22.128" viewBox="0 0 22.082 22.128">
                                         <path id="Path_302" data-name="Path 302" d="M-484.645,502.432c.551,2.316,3.529,5.184,5.735,5.735a2.1,2.1,0,0,0,2.426-1.323h0a2.054,2.054,0,0,1,3.419-.772l3.088,3.088a2.2,2.2,0,0,1,0,2.978l-2.1,2.1c-2.206,2.206-8.051-.221-13.235-5.4s-7.5-11.029-5.4-13.235l2.1-2.1a2.2,2.2,0,0,1,2.978,0l3.088,3.088a2.054,2.054,0,0,1-.772,3.419h0A2,2,0,0,0-484.645,502.432Z" transform="translate(491.48 -492.919)" fill="#ffe500"/>
@@ -62,7 +62,7 @@
                                     <p class="text-15 leading-28 text-white font-rubik font-normal">+31 (0)6 - 36 17 64 28</p>
                                 </div>
                             </a>
-                            <a href="" class="flex justify-between hover">
+                            <a href="mailto:info@max-van-dijk.nl" class="flex justify-between hover">
                                 <div class="h-[30px] w-[30px] flex justify-center items-center">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24.198" height="16.636" viewBox="0 0 24.198 16.636">
                                         <g id="Group_82" data-name="Group 82" transform="translate(0 -96)">

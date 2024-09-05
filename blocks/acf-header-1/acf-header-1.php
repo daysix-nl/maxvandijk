@@ -14,7 +14,7 @@ $image_alt = isset($image['alt']) ? esc_attr($image['alt']) : '';
     <div class="h-full container flex items-center">
         <div class="grid">
             <h2 class="text-18 leading-18 font-rubik font-medium uppercase text-[#FFE500] drop-shadow-md"><?php echo get_field('subtitel');?></h2>
-            <h1 class="text-50 leading-60 font-bold font-jost text-white mt-[20px] max-w-[575px] drop-shadow-md"><?php echo get_field('titel');?></h1>
+            <h1 class="text-45 leading-55 font-bold font-jost text-white mt-[20px] max-w-[575px] drop-shadow-md"><?php echo get_field('titel');?></h1>
         </div>
     </div>
     </div>
@@ -29,7 +29,7 @@ $image_alt = isset($image['alt']) ? esc_attr($image['alt']) : '';
 </section>
 <!-- OVER ONS -->
 <section class="mt-[-75px] z-[4] relative">
-    <div class="container w-full bg-[#3D4343] rounded-[10px] px-[25px] py-[40px] lg:px-[60px] lg:py-[45px]">
+    <div class="container max-w-[360px] md:max-w-[680px] lg:max-w-[1145px] xl:max-w-[1170px] w-full bg-[#3D4343] rounded-[10px] px-[25px] py-[40px] lg:px-[60px] lg:py-[45px]">
     <h3 class="text-24 leading-34 lg:text-36 lg:leading-46 font-just font-medium text-[#FFE500]"><?php echo get_field('over_titel');?></h3>
     <p class="text-16 leading-26 font-normal font-rubik text-white mt-[25px]"><?php echo get_field('tekst');?></p>
     </div>

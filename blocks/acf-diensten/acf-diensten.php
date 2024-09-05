@@ -22,7 +22,7 @@ else: ?>
                         <div class="h-[70px] w-[70px] flex items-center">
                             <img src="<?php echo get_field('icoon', $post_id);?>" alt="Icoon <?php the_title();?>">
                         </div>
-                        <div class="w-[261px] md:w-[196px] lg:w-[226px] xl:w-[234px]">
+                        <div class="w-[230px] md:w-[196px] lg:w-[226px] xl:w-[234px]">
                         <h3 class="text-24 leading-34 font-rubik font-bold text-[#FFE500]"><?php the_title();?></h3>
                         <p class="flex items-center text-white text-16 leading-26 font-rubik font-medium">Lees meer 
                             <svg xmlns="http://www.w3.org/2000/svg" width="10.432" height="10.167" viewBox="0 0 10.432 10.167" class="mlicon">
